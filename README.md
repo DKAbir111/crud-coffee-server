@@ -1,10 +1,9 @@
 # ☕ Coffee Website  
 
 A fully responsive coffee management application built with the **MERN stack** (React, Node.js, Express, MongoDB). Users can perform **CRUD operations** (Create, Read, Update, Delete) directly on the MongoDB database. This project leverages modern tools, libraries, and middleware for efficient functionality and seamless user experiences.  
-
-![Project Preview](https://chic-paprenjak-5c15d1.netlify.app/)  
-live link: https://chic-paprenjak-5c15d1.netlify.app/
-Server Link: https://crud-coffee-server.onrender.com
+ 
+## live link: https://chic-paprenjak-5c15d1.netlify.app/
+## Server Link: https://crud-coffee-server.onrender.com/coffees
 ## 🌟 Features  
 
 - Add new coffee entries with detailed information.  
